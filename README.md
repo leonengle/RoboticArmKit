@@ -10,7 +10,6 @@ The arm was found on Instructables and designed by theGHIZMo, website http://www
 The claw was designed in-house.
 ##### Contributors:
 [@crazyblock12](https://github.com/crazyblock12)
-Roman
 
 ## Electronics:
 ### The PCB:
