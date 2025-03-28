@@ -13,5 +13,5 @@ The claw was designed in-house.
 
 ## Electronics:
 ### The PCB:
-### Omptimization of PWM:
+### Optimization of PWM:
 
