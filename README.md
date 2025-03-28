@@ -13,7 +13,7 @@ The claw was designed in-house.
 
 ## Electronics:
 ### The PCB:
-<img src="images/PCB_Front_Picture.png" width="250" /> 
+<img src="images/PCB_Front_Picture.png" width="250" /> <img src="images/PCB_Back_Picture.png" width="250" />
 
 
 
