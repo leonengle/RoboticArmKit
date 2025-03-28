@@ -8,8 +8,10 @@ The arm was found on Instructables and designed by theGHIZMo, website http://www
 
 ### The Claw: 
 The claw was designed in-house 
-Contributors:
-- [@username](https://github.com/crazyblock12)
+
+##### Contributors:
+- [@crazyblock12](https://github.com/crazyblock12)
+- Roman
 
 ## Electronics:
 ### The PCB:
