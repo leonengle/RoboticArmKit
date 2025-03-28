@@ -13,7 +13,7 @@ The claw was designed in-house.
 
 ## Electronics:
 ### The PCB:
-![Alt text](images/schematicPhotoColor.pdf)
+![Alt text](images/PCB_Front_Picture.png)
 
 ### Optimization of PWM:
 
